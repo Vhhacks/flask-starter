@@ -4,6 +4,9 @@
 
 ## Installation Guide
 
+(Optional) To get coding immediately without all the hassle of setup, [go to Repl.it and Fork this starter!](https://replit.com/@vhHacksTeam/flask-starter)!
+Repl.it lets you code in the browser with an online IDE with friends!
+
 #### Section 1 - Toolkit Setup
 **Skip this if you already have Python3 setup on your computer!**
 
